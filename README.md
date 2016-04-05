@@ -1,6 +1,6 @@
 # MakeLearning
 
-http://blog.csdn.net/haoel/article/details/2886  
+[跟我一起写Makfile](http://blog.csdn.net/haoel/article/details/2886)  
 http://blog.csdn.net/haoel/article/details/2887   
 http://blog.csdn.net/haoel/article/details/2888  
 http://blog.csdn.net/haoel/article/details/2889  
