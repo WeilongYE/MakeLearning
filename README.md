@@ -16,5 +16,6 @@
 [跟我一起写Makfile（十四）](http://blog.csdn.net/haoel/article/details/2899)  
 
 
-自动推导依赖文件
-http://blog.csdn.net/zxy_cs/article/details/7028642
+自动推导依赖文件  
+http://blog.csdn.net/zxy_cs/article/details/7028642    
+http://my.oschina.net/alphajay/blog/10225
